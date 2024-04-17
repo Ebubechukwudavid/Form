@@ -1,0 +1,70 @@
+body{
+    margin: 100px;
+    text-align: center;
+}
+
+
+
+
+p{
+    text-align: center;
+}
+
+table{
+    border: 1px solid ;
+    border-collapse: collapse;
+    color: black;
+    height: -150px;
+    width: 100%;
+    text-align: center;
+
+}
+
+
+
+
+td,td{
+    border-right: 1px solid rgb(0,0,0);
+    color: black;
+    height:100px;
+}
+
+.nam{
+    background-color:blue;
+    color: white;
+  
+
+    
+}
+
+.mon{
+    font-size: 30px;
+
+}
+
+.end{
+    padding: 5px;
+}
+
+.main{
+    background-color: blue;
+}
+
+.btn{
+    background-color: orange;
+    color: white;
+    height: 50px;
+    width: 90%;
+border-radius: 10px;
+margin:  20px;
+
+}
+.btnn
+
+h3{
+    margin-left: 220px;
+    margin-top: -20px;
+}
+
+
+

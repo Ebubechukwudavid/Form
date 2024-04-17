@@ -1,0 +1,32 @@
+table,tr,td,th{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+table{
+    background-color: navy;
+    color: white;
+    width: 400px;
+    height: 200px;
+    text-align: center;
+}
+button{
+    color: white;
+    background-color: skyblue;
+}
+
+tr:nth-child(even){
+    background-color: rgb(53,50,50);
+}
+
+button:hover{
+    color: black;
+    border-radius: 4px;
+}
+
+.year{
+    background-color: navy;
+    color: white;
+    width: 31.7%;
+    height: 50px;
+    text-align: center;
+}
